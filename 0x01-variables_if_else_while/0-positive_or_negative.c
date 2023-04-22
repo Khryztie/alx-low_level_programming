@@ -5,7 +5,9 @@
 /**
  * main - print a random num
  *
- * Return 0
+ * Description: using the main function
+ * this program prints "programming is positive, zero or negative"
+ * Return: 0
  */
 int main(void)
 {
