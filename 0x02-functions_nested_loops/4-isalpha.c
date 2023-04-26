@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _insalpha - Shows 1 if the input is a
- * Description: letter Another cases, shows 0
+ * letter Another cases, shows 0
  *
  * @c: The character in ASCII code
  *
