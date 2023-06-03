@@ -6,7 +6,7 @@
  * add_node_end - Adds a new node at the end
  *                of a linked list_t list.
  * @head: Double pointer to the head
- * 	of the list_t list.
+ * of the list_t list.
  * @str: The string to be added to the new node.
  *
  * Return: If the function fails - NULL.
