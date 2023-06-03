@@ -6,7 +6,7 @@
  * add_node - Adds a new node at the beginning
  *            of a linked list_t list.
  * @head: Double pointer to the head of the list_t list.
- * @str: The new string to be added to the 
+ * @str: The new string to be added to the
  *       node of the linked list_t list.
  *
  * Return: If the function fails - NULL.
